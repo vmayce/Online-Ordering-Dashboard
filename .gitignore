@@ -3,3 +3,15 @@
 ################################################################################
 
 /OodSolution/.vs/OodSolution/v16
+/OodSolution/OodDatabase/bin/Debug
+/OodSolution/OodDatabase/obj/Debug/Model.xml
+/OodSolution/OodDatabase/obj/Debug/OodDatabase.dll
+/OodSolution/OodDatabase/obj/Debug
+/OodSolution/OodDatabase/OodDatabase.sqlproj.user
+/OodSolution/OodWebsite/dist/js
+/OodSolution/OodWebsite/bin
+/OodSolution/OodWebsite/node_modules
+/OodSolution/OodWebsite/obj/Debug
+/OodSolution/OodWebsite/OodWebsite.njsproj.user
+/OodSolution/OodDatabase/OodDatabase.refactorlog
+/OodSolution/OodDatabase/OodDatabase.jfm

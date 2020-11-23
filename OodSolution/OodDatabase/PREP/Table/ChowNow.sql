@@ -1,0 +1,15 @@
+﻿CREATE TABLE [PREP].[ChowNow]
+(
+	[ChowNowId] INT NOT NULL IDENTITY(1,1),	
+	[OrderId] INT NOT NULL,
+	[OrderType]	VARCHAR(25) NOT NULL,
+	[OrderDate] DATE NOT NULL,
+	[OrderTime] TIME NOT NULL,
+	[Subtotal] FLOAT NOT NULL,
+	[Tax] FLOAT NOT NULL,
+	[Tip] FLOAT NOT NULL,
+	[DeliveryFee] FLOAT NOT NULL,
+	[Discount] FLOAT NOT NULL,
+	[Gross] FLOAT NOT NULL,
+	CONSTRAINT PK_ChowNow_ChowNowId PRIMARY KEY (ChowNowId)
+)
